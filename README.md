@@ -1,12 +1,12 @@
 ```
 const name = 'Rohan Shetty';
 let designation: string = 'SDE-1';
-let location = 'Bangalore';
+let location: string = 'Bangalore';
 
-let hobbies: Array<String> = ['Football', 'F1', 'PES'];
-let currently_learning: Array<String> = ['Typescript', 'React'];
+
 let interests: Array<String> = [...]
-
+let currently_learning: Array<String> = ['Typescript', 'React'];
+let hobbies: Array<String> = ['Football', 'F1', 'PES'];
 ```
 
 
