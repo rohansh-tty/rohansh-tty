@@ -1,15 +1,11 @@
 ```
-{
-    name: "Rohan Shetty"
-    located_in: "Bangalore"
-    job: "SDE-1"
-    company: "Machani Robotics"
-    education: "Bachelor of Civil Engineering"
+const name = 'Rohan Shetty';
+let designation: string = 'SDE-1';
+let location = 'Bangalore';
 
-    fields_of_interests: [...]
-    currently_learning: ["React", "Rust"]
-    hobbies: ["Football", "PES", "F1"]
- }
+let hobbies: Array<String> = ['Football', 'F1', 'PES'];
+let currently_learning: Array<String> = ['Typescript', 'React'];
+let interests: Array<String> = [...]
 
 ```
 
