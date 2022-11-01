@@ -1,16 +1,26 @@
 ```typescript
-const name = 'Rohan Shetty';
-let designation: string = 'SDE-1';
-let location: string = 'Bangalore';
-
-
-let currently_learning: Array<String> = ['Typescript', 'React'];
-let hobbies: Array<String> = ['Football', 'F1', 'PES'];
+const info: any = {
+            "name": "Rohan Shetty", 
+            "designation": "SDE-1",
+            "location": "Bangalore",
+            
+            "tech-stack": {
+                  "frontend": ["react"],
+                  "backend": ["django", "nodejs"],
+                  "database": ["mongodb", "sqlite"]
+                },
+             "languages": ["typescript", "python", "javascript"]
+             }
+     
 ```
 
 
 
 ![Rohan's Github stats](https://github-readme-stats.vercel.app/api?username=rohansh-tty&show_icons=true&theme=tokyonight)
+
+
+![Rohan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rohansh-tty&show_icons=true&theme=tokyonight)
+
 
 
 <!--START_SECTION:waka-->
