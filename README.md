@@ -4,7 +4,6 @@ let designation: string = 'SDE-1';
 let location: string = 'Bangalore';
 
 
-let interests: Array<String> = [...]
 let currently_learning: Array<String> = ['Typescript', 'React'];
 let hobbies: Array<String> = ['Football', 'F1', 'PES'];
 ```
