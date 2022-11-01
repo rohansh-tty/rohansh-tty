@@ -1,4 +1,4 @@
-```
+```typescript
 const name = 'Rohan Shetty';
 let designation: string = 'SDE-1';
 let location: string = 'Bangalore';
@@ -8,6 +8,10 @@ let interests: Array<String> = [...]
 let currently_learning: Array<String> = ['Typescript', 'React'];
 let hobbies: Array<String> = ['Football', 'F1', 'PES'];
 ```
+
+
+
+![Rohan's Github stats](https://github-readme-stats.vercel.app/api?username=rohansh-tty&show_icons=true&theme=tokyonight)
 
 
 <!--START_SECTION:waka-->
