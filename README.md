@@ -1,6 +1,6 @@
 ## Hi, I'm Rohan
 
-I am a Software Developer. I tinker in and around web ecosystem. I program as a profession and as a hobby.
+I am a Software Developer. I tinker in and around web ecosystem. 
 
 
 **About me**
