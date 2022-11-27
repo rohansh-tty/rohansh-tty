@@ -7,7 +7,7 @@ I am a Software Developer. I tinker in and around web ecosystem.
 
 - 💼 SDE-1 @ [Machani Robotics](https://machanirobotics.com/)
 
-- ❤️ I love writing TypeScript, Python
+- ❤️ I love writing TypeScript, Python & Go recently
 
 - 💬 Ask me about anything [here](https://github.com/rohansh-tty/rohansh-tty/issues)
 
