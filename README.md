@@ -22,9 +22,9 @@ I am a Software Developer. I tinker in and around web ecosystem.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 22 mins
+Total Time: 0 secs
 
-Other      35 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
