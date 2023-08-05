@@ -5,7 +5,7 @@ I am a Software Developer. I tinker in and around web ecosystem.
 
 **About me**
 
-- 💼 SDE-1 @ [Machani Robotics](https://machanirobotics.com/)
+- 💼 Software Engineer @ [inkers.ai](https://www.inkers.ai/)
 
 - ❤️ I love writing TypeScript, Python & Go recently
 
