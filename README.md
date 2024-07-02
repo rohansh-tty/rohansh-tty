@@ -5,7 +5,7 @@ I am a Software Developer. I tinker in and around web ecosystem.
 
 **About me**
 
-- 💼 Software Engineer @ [inkers.ai](https://www.inkers.ai/)
+- 💼 Software Engineer @ [inkers.ai](https://www.inkers.ai/), Building [Observance](https://www.inkers.ai/product/observance)
 
 - ❤️ I love writing TypeScript, Python & Go recently
 
