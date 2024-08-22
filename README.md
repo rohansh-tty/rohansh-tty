@@ -1,6 +1,6 @@
 ## Hi, I'm Rohan
 
-I am a Software Developer. I tinker in and around web ecosystem. 
+I'm a software dev by day, and a tinkerer by night! Currently, I'm building a local password vault using [Varden](https://github.com/rohansh-tty/varden) - it's a side project that's been keeping me up late, but I'm stoked to see it come together. 
 
 
 **About me**
