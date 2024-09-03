@@ -20,12 +20,4 @@ I also passively contribute to Open-source projects, some of which include [List
 
 ## I do leetcode on weekends! ([profile](https://leetcode.com/Rohan641))
 [![Rohan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Rohan641)](https://github.com/KnlnKS/leetcode-stats)
-<!--START_SECTION:waka-->
 
-```text
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
