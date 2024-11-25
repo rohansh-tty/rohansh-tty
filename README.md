@@ -7,7 +7,7 @@ I also passively contribute to Open-source projects, some of which include [List
 
 **About me**
 
-- 💼 Software Engineer @ [inkers.ai](https://www.inkers.ai/), Building [Observance](https://www.inkers.ai/product/observance)
+- 💼 Software Engineer @ [oneorigin](https://www.oneorigin.us/)
 
 - ❤️ I love writing TypeScript, Python & Go recently
 
