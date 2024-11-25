@@ -7,7 +7,7 @@ I also passively contribute to Open-source projects, some of which include [List
 
 **About me**
 
-- 💼 Software Engineer @ [oneorigin](https://www.oneorigin.us/)
+- 💼 Software Engineer @ [OneOrigin](https://www.oneorigin.us/)
 
 - ❤️ I love writing TypeScript, Python & Go recently
 
